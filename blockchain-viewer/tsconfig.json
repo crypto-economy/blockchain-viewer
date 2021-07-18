@@ -7,7 +7,6 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "alwaysStrict": true,
-    "exactOptionalPropertyTypes": true,
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
     "noImplicitThis": true,
