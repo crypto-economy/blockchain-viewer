@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "blockchain-viewer/",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"label": "npm: start - blockchain-viewer",
+			"detail": "ng serve"
+		}
+	]
+}
